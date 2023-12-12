@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jujulabz
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website building
 - 📫 How to reach me email mp678503@gmail.com
 
 <!---
