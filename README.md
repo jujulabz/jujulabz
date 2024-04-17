@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jujulabz
-- 👀 I’m interested in Video games
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on website building
+- 👀 I’m interested in all things technology
+- 🌱 I’m currently learning Java, JavaScript, Python, Html, Css and node.js
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email mp678503@gmail.com
 
 <!---
